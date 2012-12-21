@@ -7,12 +7,12 @@ readable.
 
 Run "./logview -h" for usage.
 
-It requires following Perl modules:
- File::Tail
- Term::ANSIColor
+It requires following Perl modules:  
+ File::Tail  
+ Term::ANSIColor  
  Term::ReadKey
 
-Author:
- Maciej Korzen
- maciek@korzen.org, mkorzen@gmail.com
- http://www.korzen.org
+Author:  
+ Maciej Korzen  
+ maciek@korzen.org, mkorzen@gmail.com  
+ http://www.korzen.org  
