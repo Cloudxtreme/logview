@@ -1,0 +1,4 @@
+logview
+=======
+
+Simple logfile colorizer.
